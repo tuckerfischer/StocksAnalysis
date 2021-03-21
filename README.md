@@ -3,7 +3,9 @@
 In this project we were given a list of green stocks and their performance in 2017 and 2018. We then looped through each ticker to determine the Total Daily Volume and return percentage for that stock. By doing this we were able to advise whether or not a certain stock was a good pick for that year. 
 
 	##Refactored Vs. Original Code
-		The first code we ran we had a nested for loop that would loop through each ticker then through each row. With the refactored code we first set the tickerVolumes for each ticker to 0 and then we looped through each row. Then we looped through adding the data to excell and finally formatted the code. 	##Big O
+		The first code we ran we had a nested for loop that would loop through each ticker then through each row. With the refactored code we first set the tickerVolumes for each ticker to 0 and then we looped through each row. Then we looped through adding the data to excell and finally formatted the code. 	
+		
+	##Big O
 	Since Big O of a nested for loop is O(n^2) while Big O for a for loop is linear time or O(n) therefore we would expect the refactored code to be faster the the original code. 
 
 #Results
