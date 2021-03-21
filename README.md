@@ -10,25 +10,25 @@ In this project we were given a list of green stocks and their performance in 20
 
 #Results
 
-##Run Times
+	##Run Times
 
-![image](https://user-images.githubusercontent.com/78890771/111918510-649f1d00-8a53-11eb-8ef0-959d1c2a79ba.png)
+	![image](https://user-images.githubusercontent.com/78890771/111918510-649f1d00-8a53-11eb-8ef0-959d1c2a79ba.png)
 
-The run time for the original code in through the 2017 data was 0.574 seconds
+	The run time for the original code in through the 2017 data was 0.574 seconds
 
-![image](https://user-images.githubusercontent.com/78890771/111918497-52bd7a00-8a53-11eb-9708-62e1d4a08718.png)
+	![image](https://user-images.githubusercontent.com/78890771/111918497-52bd7a00-8a53-11eb-9708-62e1d4a08718.png)
 
-The run time for the refactored code through the 2018 data was 0.009 seconds
+	The run time for the refactored code through the 2017 data was 0.009 seconds
 
-![image](https://user-images.githubusercontent.com/78890771/111918526-784a8380-8a53-11eb-8a6a-411cf339b219.png)
+	![image](https://user-images.githubusercontent.com/78890771/111918526-784a8380-8a53-11eb-8a6a-411cf339b219.png)
 
-The run time for the original code O(n^2) was 0.582 seconds.
+	The run time for the original code throuh the 2018 data was 0.582 seconds.
 
-![image](https://user-images.githubusercontent.com/78890771/111918518-71237580-8a53-11eb-953e-7c1818978e80.png)
+	![image](https://user-images.githubusercontent.com/78890771/111918518-71237580-8a53-11eb-953e-7c1818978e80.png)
 
-The run time for the refactored code O(n) was 0.105
+	The run time for the refactored code through the 2018 data was 0.105
 
-As predicted by knowing the Big O for each macro the refactored code ran quicker than the original code. 
+	As predicted by knowing the Big O for each macro the refactored code ran quicker than the original code. 
 
 ##Stock Performance
 
