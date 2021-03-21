@@ -1,4 +1,4 @@
-#Project Overview
+Project Overview
 
 In this project we were given a list of green stocks and their performance in 2017 and 2018. We then looped through each ticker to determine the Total Daily Volume and return percentage for that stock. By doing this we were able to advise whether or not a certain stock was a good pick for that year. 
 
