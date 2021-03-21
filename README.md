@@ -28,7 +28,7 @@ The run time for the original code throuh the 2018 data was 0.582 seconds.
 
 The run time for the refactored code through the 2018 data was 0.105
 
-	###As predicted by knowing the Big O for each macro the refactored code ran quicker than the original code. 
+		##As predicted by knowing the Big O for each macro the refactored code ran quicker than the original code. 
 
 	##Stock Performance
 
