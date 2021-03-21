@@ -10,9 +10,9 @@ In this project we were given a list of green stocks and their performance in 20
 
 #Results
 
-	##Run Times
+	Run Times
 
-![image](https://user-images.githubusercontent.com/78890771/111918510-649f1d00-8a53-11eb-8ef0-959d1c2a79ba.png)
+	![image](https://user-images.githubusercontent.com/78890771/111918510-649f1d00-8a53-11eb-8ef0-959d1c2a79ba.png)
 
 	The run time for the original code in through the 2017 data was 0.574 seconds
 
