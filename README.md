@@ -15,7 +15,7 @@ In this project we were given a list of green stocks and their performance in 20
 All Stocks Analysis 2017.PNG
 The run time for the original code in through the 2017 data was 0.574 seconds
 
-https://github.com/tuckerfischer/StocksAnalysis/blob/127b6349f435603190063bf78bec252ec0bba96c/All%20Stocks%20Analysis%202017%20Refactored.PNG
+All Stocks Analysis 2017 Refactored.PNG
 The run time for the refactored code through the 2018 data was 0.009 seconds
 
 All Stocks Analysis 2018.PNG
